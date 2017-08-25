@@ -1,0 +1,9 @@
+[user]
+	email = cadu@ncc.unesp.br
+	signingkey = 0FC04B8D
+[commit]
+	gpgSign = true
+
+; In other repos, use:
+; [include]
+;     path = ~/kytos/repos/gitconfig
