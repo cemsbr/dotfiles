@@ -1,0 +1,11 @@
+[user]
+	name = Carlos Eduardo Moreira dos Santos
+	email = cems@cemshost.com.br
+[alias]
+	ci = commit
+	st = status
+	grog = log --graph --abbrev-commit --decorate --all --format=format:\"%C(bold blue)%h%C(reset) - %C(bold cyan)%aD%C(reset) - %an %C(bold green)(%ar)%C(reset)%C(bold yellow)%d%C(reset)%n %C(black)%s%C(reset)\"
+[core]
+	editor = vim
+[diff]
+	algorithm = minimal
