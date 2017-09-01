@@ -4,6 +4,6 @@
 [commit]
 	gpgSign = true
 
-; In other repos, use:
+; To include the settings above, add the following to .git/config:
 ; [include]
 ;     path = ~/kytos/repos/gitconfig
