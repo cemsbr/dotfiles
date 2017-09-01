@@ -41,5 +41,11 @@ let g:clang2_placeholder_prev = ''
 
 
 " Custom
+" Solarized light
 let g:spacevim_colorscheme = 'NeoSolarized'
 let g:spacevim_colorscheme_bg = 'light'
+
+"" Original colorscheme, but with light contrast
+"let g:spacevim_colorscheme = 'gruvbox'
+"let g:spacevim_colorscheme_bg = 'dark'
+""let g:gruvbox_contrast_dark = 'hard'
